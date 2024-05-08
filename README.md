@@ -1,6 +1,6 @@
 # AutoEncoders for k-Means Clustering
 
-Follow-up of [Basic k-Means Clustering on image data](https://github.com/tschechlovdev/kmeans_MNIST).
+Follow-up of [k-Means Clustering on image data](https://github.com/tschechlovdev/kmeans_MNIST).
 
 This repository showcases how to apply Auto-Encoders to learn an easier linear separable presentation of the data.
 This is especially useful for tasks like clustering. 
